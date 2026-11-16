@@ -8,7 +8,7 @@ Vlasov–Poisson System"
 
 R. Rossi, P. Gaudio, M. Gelfusa, A. Murari
 
-*Nature Computational Science* (submitted)
+Submitted
 
 ## Structure
 - 01_forward_two_stream/   → Forward model, two-stream instability
